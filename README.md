@@ -13,7 +13,7 @@ am not developing this library but i forked it, and migrate the library to andro
 
 ``` groovy
 dependencies {
-    implementation 'com.github.tizisdeepan:dots:1.0.1'
+    implementation 'com.github.kldMohammed:dots:0.1.0'
 }
 ```
 
